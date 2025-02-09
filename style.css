@@ -26,6 +26,13 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: left;
+    align-items: center;
+}
+
+.header-icon {
+    height: 36px;
+    width: auto;
+    margin: 6px;
 }
 
 .header-text {
